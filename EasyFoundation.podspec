@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'EasyFoundation'
-  s.version          = '1.0.0-alpha'
-  s.summary          = 'EasyFoundation is a foundation framework which includes tuple and sequence features on iOS.'
+  s.version          = '1.0.0'
+  s.summary          = 'EasyFoundation is a toolkit of Objective-C extensions for EasyReact framework.'
   s.description      = <<-DESC
   EasyFoundation is a toolkit of Objective-C extensions for EasyReact framework. It provides tuple and sequence for Objective-C.
                        DESC
