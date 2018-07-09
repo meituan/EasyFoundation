@@ -1,12 +1,10 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/meituan/EasyFoundation/master/images/banner.png" alt="EasyFoundation">  
-</p>
+# ![EasyFoundation](https://raw.githubusercontent.com/meituan/EasyFoundation/master/images/banner.png)
 
-[![CI Status](https://img.shields.io/travis/EasyFoundation/EasyFoundation.svg?style=flat)](https://travis-ci.org/meituan/EasyFoundation)
+[![Build Status](https://travis-ci.com/meituan/EasyFoundation.svg?branch=master)](https://travis-ci.com/meituan/EasyFoundation)
 [![Version](https://img.shields.io/cocoapods/v/EasyFoundation.svg?style=flat)](https://cocoapods.org/pods/EasyFoundation)
 [![License](https://img.shields.io/cocoapods/l/EasyFoundation.svg?style=flat)](https://cocoapods.org/pods/EasyFoundation)
 [![Platform](https://img.shields.io/cocoapods/p/EasyFoundation.svg?style=flat)](https://cocoapods.org/pods/EasyFoundation)
-
+[![codecov](https://codecov.io/gh/meituan/EasyFoundation/branch/master/graph/badge.svg)](https://codecov.io/gh/meituan/EasyFoundation)
 
 EasyFoundation is a toolkit of Objective-C extensions for EasyReact framework. It provides tuple and sequence for Objective-C.
 
@@ -36,4 +34,4 @@ SketchK, [zhangsiqi1988@gmail.com](mailto:zhangsiqi1988@gmail.com)
 
 ## License
 
-EasyFoundation is available under the MIT license. See the LICENSE file for more info.
+EasyFoundation is available under the MIT license. See the [LICENSE](./LICENSE) file for more info.
